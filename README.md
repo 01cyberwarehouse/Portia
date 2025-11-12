@@ -19,8 +19,8 @@ git clone https://github.com/01cyberwarehouse/Portia
 ```
 # Usage
 ```
-chmod +x portia
-./portia -t http://machineryman.com
+chmod +x portia // for first time only
+./portia -t https://machineryman.com
 ```
 # Warning!
 I do not responsible for any misuse of this tool please use it for ethical reason.
