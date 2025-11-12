@@ -62,5 +62,8 @@ Do you want to scan the directories of http://testhtml5.vulnweb.com/#/popular (y
 [!] HOST: testhtml5.vulnweb.com Path: /index.html STATUS: Not Found 404
 
 ```
+# Video example
+https://github.com/user-attachments/assets/d4f8b56e-59d0-4ba2-88a0-8cb6036334f0
+
 # Warning!
 I do not responsible for any misuse of this tool please use it for ethical reason.
