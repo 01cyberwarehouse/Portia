@@ -20,7 +20,42 @@ git clone https://github.com/01cyberwarehouse/Portia
 # Usage
 ```
 chmod +x portia // for first time only
-./portia -t https://machineryman.com
+./portia -t http://testhtml5.vulnweb.com/#/popular
+[T] Scan report on Wed Nov 12 2025 20:02:14 GMT+0800 (Malaysia Time)
+[>] TARGET URL: "http://testhtml5.vulnweb.com/#/popular"
+[i] IP: "44.228.249.3" Protocol family: IPv4
+
+Raw Headers [!]:
+Server,nginx/1.19.0,Date,Wed, 12 Nov 2025 12:02:14 GMT,Content-Type,text/html; charset=utf-8,Content-Length,6940,Connection,close,Access-Control-Allow-Origin,*
+
+Headers [!]:
+ {
+  server: 'nginx/1.19.0',
+  date: 'Wed, 12 Nov 2025 12:02:14 GMT',
+  'content-type': 'text/html; charset=utf-8',
+  'content-length': '6940',
+  connection: 'close',
+  'access-control-allow-origin': '*'
+}
+
+Additional information [i]:
+Protocol: "http:"
+Path location: "/"
+Host: testhtml5.vulnweb.com
+Status code: 200
+Content-Type: text/html; charset=utf-8
+Do you want to scan the directories of http://testhtml5.vulnweb.com/#/popular (y/n): y
+[!] HOST: testhtml5.vulnweb.com Path: /admin.js STATUS: Not Found 404
+[!] HOST: testhtml5.vulnweb.com Path: /index.htm STATUS: Not Found 404
+[!] HOST: testhtml5.vulnweb.com Path: /phpmyadmin/sql.php STATUS: Not Found 404
+[!] HOST: testhtml5.vulnweb.com Path: /ApacheGUI/jsp/GUISettings.jsp STATUS: Not Found 404
+[!] HOST: testhtml5.vulnweb.com Path: /main.js STATUS: Not Found 404
+[!] HOST: testhtml5.vulnweb.com Path: /style.css STATUS: Not Found 404
+[!] HOST: testhtml5.vulnweb.com Path: /admin.php STATUS: Not Found 404
+[!] HOST: testhtml5.vulnweb.com Path: /index.php STATUS: Not Found 404
+[!] HOST: testhtml5.vulnweb.com Path: /main.php STATUS: Not Found 404
+[!] HOST: testhtml5.vulnweb.com Path: /index.html STATUS: Not Found 404
+
 ```
 # Warning!
 I do not responsible for any misuse of this tool please use it for ethical reason.
