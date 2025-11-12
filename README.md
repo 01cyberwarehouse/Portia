@@ -1,6 +1,6 @@
 # Portia 0.0.1 alpha
 Portia is a manual web scanner tool made with nodejs for pentesting and bug bounty supported by linux operating system. Have any problems and bugs? please report to us!
-portia inspired by real life spider name which mean intelligent at hunting behaviour.
+portia inspired by real life spider name which mean intelligent at hunting behaviour. project will be continue untill 2027.
 
 # Installation
 ## For debian and ubuntu based distro
