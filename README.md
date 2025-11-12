@@ -19,7 +19,6 @@ sudo dnf install nodejs && sudo dnf install git
 git clone https://github.com/01cyberwarehouse/Portia
 ```
 # Usage
-https://github.com/user-attachments/assets/9530eea2-7176-4b9b-b5ca-113df6bafe2e
 ```
 # For first time
 machineryman01@machine01:~/Documents/project/hacking_tools/Portia$ chmod +x portia 
