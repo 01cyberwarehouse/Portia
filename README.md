@@ -23,4 +23,4 @@ chmod +x portia
 ./portia -t http://machineryman.com
 ```
 # Warning!
-### I do not responsible for any misuse of this tool please use it for ethical reason.
+I do not responsible for any misuse of this tool please use it for ethical reason.
