@@ -1,0 +1,11 @@
+#!/bin/bash
+
+argument_1=$1
+argument_2=$2
+
+if [[ $argument_1 == "-t" ]]; then
+  node portia.js $argument_1 $argument_2
+  node scan_directories.js $argument_2
+else
+  node portia.js $argument_1 $argument_2
+fi
