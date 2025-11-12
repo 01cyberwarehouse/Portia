@@ -19,10 +19,12 @@ git clone https://github.com/01cyberwarehouse/Portia
 ```
 # Usage
 ```
-machineryman01@machine01:~/Documents/project/hacking_tools/Portia$ chmod +x portia # <=== for first time only
+# For first time
+machineryman01@machine01:~/Documents/project/hacking_tools/Portia$ chmod +x portia 
 
 machineryman01@machine01:~/Documents/project/hacking_tools/Portia$ ./portia -t
 http://testhtml5.vulnweb.com/#/popular
+
 [T] Scan report on Wed Nov 12 2025 20:02:14 GMT+0800 (Malaysia Time)
 [>] TARGET URL: "http://testhtml5.vulnweb.com/#/popular"
 [i] IP: "44.228.249.3" Protocol family: IPv4
