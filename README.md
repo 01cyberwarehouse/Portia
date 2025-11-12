@@ -17,9 +17,10 @@ git clone https://github.com/01cyberwarehouse/Portia
 sudo dnf install nodejs && sudo dnf install git
 git clone https://github.com/01cyberwarehouse/Portia
 ```
-
 # Usage
 ```
 chmod +x portia
 ./portia -t http://machineryman.com
 ```
+# Warning!
+### I'm not responsible for any misuse of this tool please use it for ethical reason. this tool created for pentesting and bug bounty purpose not for cybercrime.
