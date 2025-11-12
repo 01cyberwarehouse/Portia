@@ -19,6 +19,7 @@ sudo dnf install nodejs && sudo dnf install git
 git clone https://github.com/01cyberwarehouse/Portia
 ```
 # Usage
+https://github.com/user-attachments/assets/9530eea2-7176-4b9b-b5ca-113df6bafe2e
 ```
 # For first time
 machineryman01@machine01:~/Documents/project/hacking_tools/Portia$ chmod +x portia 
@@ -64,7 +65,3 @@ Do you want to scan the directories of http://testhtml5.vulnweb.com/#/popular (y
 ```
 # Warning!
 I do not responsible for any misuse of this tool please use it for ethical reason.
-
-
-https://github.com/user-attachments/assets/af05d9df-7469-4262-a485-5b298a6faa74
-
