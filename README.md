@@ -19,7 +19,7 @@ git clone https://github.com/01cyberwarehouse/Portia
 ```
 # Usage
 ```
-chmod +x portia // for first time only
+chmod +x portia # <=== for first time only
 ./portia -t http://testhtml5.vulnweb.com/#/popular
 [T] Scan report on Wed Nov 12 2025 20:02:14 GMT+0800 (Malaysia Time)
 [>] TARGET URL: "http://testhtml5.vulnweb.com/#/popular"
